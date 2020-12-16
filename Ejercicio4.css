@@ -1,0 +1,70 @@
+/*001*/
+
+body {
+    font: 400 100% Tahoma, sans-serif;
+    /*Familia sans-serif*/
+    background-color: #ffffff;
+    color: #000000;
+}
+
+/*001*/
+
+h1 {
+    font: 160% "bold Courier", monospace;
+    background-color: #037baa;
+    padding: 2%;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: left;
+    margin: 2% 0% 0%;
+}
+
+h2 {
+    font: 140% "bold Courier", monospace;
+    background-color: #4393b3;
+    padding: 1%;
+    color: #fff;
+    text-align: left;
+    margin: 1% 50% 1% 0%;
+}
+
+/*001*/
+
+p {
+    margin: 1%;
+    text-align: left;
+}
+
+select {
+    font: 400 100% Tahoma, sans-serif;
+}
+
+label {
+    font: 400 100% Tahoma, sans-serif;
+}
+
+.pantalla {
+    width: 40%;
+    height: auto;
+    padding: 1% 5% 1%;
+    color: black;
+    background-color: beige;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    border: outset #037baa;
+}
+
+textarea {
+    resize: none;
+    padding: 1% 2% 10%;
+    border: solid 1px black;
+    color: black;
+    background-color: white;
+    font: 400 100% Tahoma, sans-serif;
+}
+
+/*001*/
+
+img {
+    margin: 1% 0%;
+}
